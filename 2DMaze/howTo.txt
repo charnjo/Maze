@@ -1,0 +1,10 @@
+-Import folder into an IDE(preferably eclipse)
+
+-Open MazePath class 
+
+-Enter full file path of the input file in file reader method called in the main method in line 27 as below
+   *****  mPath.fileReader("C:\\Users\\chanjo\\eclipse-workspace\\MyMaze\\input1.txt"); *************
+
+-Run the class as a java application
+
+-Output should appear in the terminal
